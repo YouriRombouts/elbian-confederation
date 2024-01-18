@@ -1,0 +1,2 @@
+#Zhourao unit models
+cae_sprite_pack = 90
