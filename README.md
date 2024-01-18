@@ -1,4 +1,4 @@
-# elbian-confederation
+# Elbian Confederation
 EU4 mod that adds the Elbian Confederation to the game as a formable nation
 
 The Elbian Confederation is a formable nation from the Victoria II mod Divergences of Darkness.
